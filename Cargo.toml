@@ -1,0 +1,7 @@
+[package]
+name = "msmr"
+version = "0.1.0"
+authors = ["William Laeder <codylaeder@gmail.com>"]
+
+[dependencies]
+crossbeam = "0.2.10"
